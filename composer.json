@@ -1,5 +1,5 @@
 {
-    "name": "4ngo/laravel-dev-booter",
+    "name": "forngo/laravel-dev-booter",
     "description": "Boost your Laravel app by registering Prod services only on Prod.",
     "license": "MIT",
     "authors": [
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PercyMamedy\\LaravelDevBooter\\" : "src/"
+            "fongo\\LaravelDevBooter\\" : "src/"
         }
     },
     "autoload-dev": {
@@ -28,7 +28,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.1.2"
+            "dev-master": "0.1.x-dev"
         }
     },
     "minimum-stability": "dev",
