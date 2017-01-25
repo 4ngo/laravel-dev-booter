@@ -1,5 +1,5 @@
 {
-    "name": "percymamedy/laravel-dev-booter",
+    "name": "4ngo/laravel-dev-booter",
     "description": "Boost your Laravel app by registering Prod services only on Prod.",
     "license": "MIT",
     "authors": [
@@ -28,7 +28,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "0.1.x-dev"
+            "dev-master": "0.1.2"
         }
     },
     "minimum-stability": "dev",
